@@ -8,7 +8,7 @@ LuxeLane is a portfolio-ready storefront that demonstrates a polished shopping e
 
 Deployment target: Vercel
 
-Live URL: add your deployed URL here after publishing.
+Live URL: https://e-commerce-two-rho-39.vercel.app
 
 ## Preview Screens
 
@@ -105,8 +105,10 @@ npm run lint
 
 ### Vercel
 
+This project is connected to GitHub through Vercel. New commits pushed to the connected repository can trigger automatic deployments.
+
 1. Push this project to GitHub.
-2. Open Vercel and import the GitHub repository.
+2. Open Vercel and import or connect the GitHub repository.
 3. Use these settings:
    - Framework Preset: Vite
    - Build Command: `npm run build`
